@@ -1,3 +1,4 @@
+*updated 19/11/2019*
 # Compute_GeoElectric_Fields
 
 Code for modelling GeoElectric fields during geomagnetic storms based on: 1) magnetic measurements from magnetic observatories, and 2) geophysical parameters (i.e. electromagnetic tensor relationships).
